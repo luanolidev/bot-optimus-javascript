@@ -1,0 +1,155 @@
+{
+  "ping": [
+    "ping"
+  ],
+  "teste": [
+    "teste"
+  ],
+  "ajuda": [
+    "ajuda"
+  ],
+  "serveinfo": [
+    "serveinfo"
+  ],
+  "uptime": [
+    "uptime"
+  ],
+  "sorteio": [
+    "sorteio"
+  ],
+  "aviso": [
+    "aviso"
+  ],
+  "dm": [
+    "dm"
+  ],
+  "banner": [
+    "banner"
+  ],
+  "perdirset": [
+    "perdirset"
+  ],
+  "pedirset": [
+    "pedirset"
+  ],
+  "ban": [
+    "ban"
+  ],
+  "clear": [
+    "clear"
+  ],
+  "unlock": [
+    "unlock"
+  ],
+  "unban": [
+    "unban"
+  ],
+  "lock": [
+    "lock"
+  ],
+  "modolento": [
+    "modolento"
+  ],
+  "say": [
+    "say"
+  ],
+  "status": [
+    "status"
+  ],
+  "start": [
+    "start"
+  ],
+  "setwhitelist": [
+    "setwhitelist"
+  ],
+  "setticket": [
+    "setticket"
+  ],
+  "setsugetrao": [
+    "setsugetrao"
+  ],
+  "setstatus": [
+    "setstatus"
+  ],
+  "setaprovado": [
+    "setaprovado"
+  ],
+  "setreprovado": [
+    "setreprovado"
+  ],
+  "setentrada": [
+    "setentrada"
+  ],
+  "setsaida": [
+    "setsaida"
+  ],
+  "setcargo": [
+    "setcargo"
+  ],
+  "setauto": [
+    "setauto"
+  ],
+  "setcargoaprovado": [
+    "setcargoaprovado"
+  ],
+  "setdatabase": [
+    "setdatabase"
+  ],
+  "suporte": [
+    "suporte"
+  ],
+  "antilink": [
+    "antilink"
+  ],
+  "setavatar": [
+    "setavatar"
+  ],
+  "evento": [
+    "evento"
+  ],
+  "bateponto": [
+    "bateponto"
+  ],
+  "whitelist": [
+    "whitelist"
+  ],
+  "ajuda1": [
+    "ajuda1"
+  ],
+  "setautorole": [
+    "setautorole"
+  ],
+  "plano": [
+    "plano"
+  ],
+  "liberarid": [
+    "liberarid"
+  ],
+  "set-canal-aprovado": [
+    "set-canal-aprovado"
+  ],
+  "set-anti-link": [
+    "set-anti-link"
+  ],
+  "bater-ponto": [
+    "bater-ponto"
+  ],
+  "invites": [
+    "invites"
+  ],
+  "deletarcabal": [
+    "deletarcabal"
+  ],
+  "deletar-canal": [
+    "deletar-canal"
+  ],
+  "userinfo": [
+    "userinfo"
+  ],
+  "formulario": [
+    "formulario"
+  ],
+  "set-avatar": [
+    "set-avatar"
+  ]
+}

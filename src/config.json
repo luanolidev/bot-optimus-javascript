@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "MONGO_URI": "",
+  "ipdb": "localhost",
+  "userdb": "root",
+  "senhadb": "",
+  "basedb": "",
+  "corbot": "#bd0505",
+  "imagemticket": "",
+  "portdb": 3306
+}
