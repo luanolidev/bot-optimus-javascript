@@ -1,1 +1,1 @@
-# bot-completo-optimus-store-javascript
+# bot-optimus-javascript
